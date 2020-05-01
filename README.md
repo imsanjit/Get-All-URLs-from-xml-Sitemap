@@ -4,6 +4,6 @@
 
 ***Use <a href="https://www.colab.google.com">Google colab</a> to run this python code***
 
-**Step: 1** Copy code in paste into google colab cell.
+**Step1:** Copy code in paste into google colab cell.
 
-**Step: 2** Run the cell by pressing play button and then enter your valid xml sitemap url.
+**Step2:** Run the cell by pressing play button and then enter your valid xml sitemap url.
